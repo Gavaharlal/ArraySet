@@ -1,0 +1,1 @@
+java -cp "quickcheck-0.6.jar;hamcrest-core-1.3.jar;junit-4.11.jar;info.kgeorgiy.java.advanced.base.jar;info.kgeorgiy.java.advanced.arrayset.jar;out/production/ArraySet/" info.kgeorgiy.java.advanced.arrayset.Tester SortedSet ru.ifmo.rain.dolgikh.arrayset.ArraySet
